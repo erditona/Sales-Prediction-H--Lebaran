@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # ---------------------------------------------
 # ✅ Load Model Global
 # ---------------------------------------------
-model = joblib.load('../model/global_rf_model.pkl')
+model = joblib.load('../model/model_global_rf.pkl')
 
 # ---------------------------------------------
 # ✅ Config Page
